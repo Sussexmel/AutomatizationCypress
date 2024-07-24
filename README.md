@@ -9,11 +9,11 @@ URL: https://www.demoblaze.com/
 • Finalizar la compra
 
 ##1. Prerequisitos
-Máquina local con el sistema operativo Windows 10-11
-IDE Visual Studio Code version 1.91.1 (user setup)
-Node.js rsion 22.5.1
-NPM version 10.8.2
-Cypress version 13.13.1
+- Máquina local con el sistema operativo Windows 10-11
+- IDE Visual Studio Code version 1.91.1 (user setup)
+- Node.js rsion 22.5.1
+- NPM version 10.8.2
+- Cypress version 13.13.1
 
 ##2. Comandos de instalación
 - Clonar el repositorio: git clone https://github.com/Sussexmel/NTTDATA.git
