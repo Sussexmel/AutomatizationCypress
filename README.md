@@ -30,6 +30,10 @@ URL: https://www.demoblaze.com/
 - Selecciona el archivo ejercicio-automatizacion-e2e.cy.js desde la lista de tests.
 - Documentación adicional: Puede encontrar más información y documentación en la pagina oficial de Cypress (https://docs.cypress.io/guides/overview/why-cypress).
 
+##Información adicional
+- Si desea ejecutar las pruebas de forma más rápida en el archivo package.json dentro del script/test puede remplazarla línea por : "cypress run --spec cypress/e2e/ejercicio-automatizacion-e2e.cy.js"
+- Esto generará evidencia de pruebas de ser el caso.
+
 ##Referencia:
 -Repositorio en Github: https://github.com/Sussexmel/NTTDATA.git
 
