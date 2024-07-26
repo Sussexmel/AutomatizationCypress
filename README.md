@@ -16,7 +16,7 @@ URL: https://www.demoblaze.com/
 - Cypress version 13.13.1
 
 ##2. Comandos de instalación
-- Clonar el repositorio: git clone https://github.com/Sussexmel/NTTDATA.git
+- Clonar el repositorio: git clone https://github.com/Sussexmel/NTTDATA-Cypress.git
     - git clone https://github.com/Sussexmel/NTTDATA.git
 - Navegue al directorio del proyecto: cd NTTDATA
 - Instalacion de dependencias:
