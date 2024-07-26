@@ -25,7 +25,8 @@ URL: https://www.demoblaze.com/
   
 ##3. Instrucciones para ejecutar los test
 - Abra una terminal en la raíz del proyecto y ejecute: npx cypress open
-- Esto abrirá la interfaz gráfica de Cypress donde podrá ver y ejecutar los tests. 
+- Esto abrirá la interfaz gráfica de Cypress donde podrá ver y ejecutar los tests.
+- Seleccionar E2E y el navegador Chrome 
 - Selecciona el archivo ejercicio-automatizacion-e2e.cy.js desde la lista de tests.
 - Documentación adicional: Puede encontrar más información y documentación en la pagina oficial de Cypress (https://docs.cypress.io/guides/overview/why-cypress).
 
