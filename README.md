@@ -1,4 +1,4 @@
-Reto-E2E--NTTDATA
+Automatización Cypress
 
 ##Descipción
 Prueba funcional automatizada (Prueba E2E) de un flujo de compra en la página
@@ -16,9 +16,9 @@ URL: https://www.demoblaze.com/
 - Cypress version 13.13.1
 
 ##2. Comandos de instalación
-- Clonar el repositorio: git clone https://github.com/Sussexmel/NTTDATA-Cypress.git
-    - git clone https://github.com/Sussexmel/NTTDATA.git
-- Navegue al directorio del proyecto: cd NTTDATA
+- Clonar el repositorio:
+    - git clone https://github.com/Sussexmel/AutomatizationCypress.git
+- Navegue al directorio del proyecto: cd "Nombre del directorio"
 - Instalacion de dependencias:
     - npm install
     - npm install cypress --save-dev
@@ -35,6 +35,6 @@ URL: https://www.demoblaze.com/
 - Esto generará evidencia de pruebas de ser el caso.
 
 ##Referencia:
--Repositorio en Github: https://github.com/Sussexmel/NTTDATA.git
+-Repositorio en Github: https://github.com/Sussexmel/AutomatizationCypress.git
 
 
