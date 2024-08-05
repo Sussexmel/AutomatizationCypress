@@ -1,12 +1,12 @@
 Automatización Cypress
 
 ##Descipción
-Prueba funcional automatizada (Prueba E2E) de un flujo de compra en la página
-URL: https://www.demoblaze.com/
-• Agregar dos productos al carrito
-• Visualizar el carrito
-• Completar el formulario de compra
-• Finalizar la compra
+- Automatización E2E de un flujo de compra en la página
+    - URL: https://www.demoblaze.com/
+- Agregar dos productos al carrito
+- Visualizar el carrito
+- Completar el formulario de compra
+- Finalizar la compra
 
 ##1. Prerequisitos
 - Máquina local con el sistema operativo Windows 10-11
